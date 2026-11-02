@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img">
+<title>Компоновка страницы Рейтинг экспортеров шрота в РФ</title>
+<desc>Схема по метаданным PBIX. Без данных, брендинга и персональных контактов. Не скриншот отчёта.</desc>
+<rect width="1280" height="800" fill="#f7f9fb"/>
+<text x="16" y="27" font-family="Arial,sans-serif" font-size="19" fill="#203b2b">Рейтинг экспортеров шрота в РФ</text>
+<text x="16" y="52" font-family="Arial,sans-serif" font-size="12" fill="#546572">Схема расположения визуалов • без исходных значений • не скриншот</text>
+<g transform="translate(0,70)" font-family="Arial,sans-serif">
+<rect x="958.1" y="336.9" width="321.9" height="314.8" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="965.1" y="351.9" font-size="12" fill="#354a40">Динамика</text>
+<rect x="0.0" y="447.0" width="133.7" height="251.5" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="7.0" y="462.0" font-size="12" fill="#354a40">Фильтр</text>
+<rect x="159.8" y="367.2" width="429.1" height="318.2" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="166.8" y="382.2" font-size="12" fill="#354a40">Матрица: Экспорт шрота в разрезе стран назначения, тыс. т</text>
+<rect x="148.8" y="62.5" width="440.0" height="281.2" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="155.8" y="77.5" font-size="12" fill="#354a40">Структура: ТОП экспортеров шрота в РФ в разрезе компаний,</text>
+<text x="155.8" y="92.5" font-size="12" fill="#354a40">тыс. т</text>
+<rect x="717.5" y="63.1" width="428.1" height="281.3" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="724.5" y="78.1" font-size="12" fill="#354a40">Структура: ТОП экспортеров шрота в РФ в разрезе портов,</text>
+<text x="724.5" y="93.1" font-size="12" fill="#354a40">тыс. т</text>
+<rect x="9.8" y="188.6" width="114.9" height="64.8" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="16.8" y="203.6" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="291.9" y="204.3" width="142.5" height="45.0" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="298.9" y="219.3" font-size="9" fill="#354a40">KPI</text>
+<rect x="856.0" y="204.9" width="142.5" height="43.8" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="863.0" y="219.9" font-size="9" fill="#354a40">KPI</text>
+<rect x="535.7" y="406.1" width="421.9" height="285.1" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="542.7" y="421.1" font-size="12" fill="#354a40">Динамика</text>
+<rect x="715.7" y="413.3" width="421.9" height="277.9" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="722.7" y="428.3" font-size="12" fill="#354a40">Динамика</text>
+<rect x="716.2" y="493.2" width="74.8" height="33.8" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="723.2" y="508.2" font-size="9" fill="#354a40">KPI</text>
+<rect x="892.3" y="493.2" width="74.8" height="33.8" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="899.3" y="508.2" font-size="9" fill="#354a40">KPI</text>
+<rect x="1082.9" y="494.4" width="72.4" height="32.6" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="1089.9" y="509.4" font-size="9" fill="#354a40">KPI</text>
+</g></svg>

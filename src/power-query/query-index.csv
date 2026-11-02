@@ -1,0 +1,14 @@
+layer,group,name,file,parameters,diagnostic
+source,dataset-monitoring,Мониторинг_масло,src/power-query/source/dataset-monitoring/monitoring-maslo.m,pSource01,False
+source,dataset-monitoring,Мониторинг_шрот,src/power-query/source/dataset-monitoring/monitoring-shrot.m,pSource01,False
+source,dataset-monitoring,фильтр_названий,src/power-query/source/dataset-monitoring/fil-tr-nazvaniy.m,,False
+source,dataset-monitoring,замена_прочее,src/power-query/source/dataset-monitoring/zamena-prochee.m,,False
+source,dataset-monitoring,Ошибки в Мониторинг_масло (2),src/power-query/source/dataset-monitoring/oshibki-v-monitoring-maslo-2.m,,True
+model,queries,Мониторинг_масло,src/power-query/model/queries/monitoring-maslo.m,pSource02,False
+model,queries,Мониторинг_шрот,src/power-query/model/queries/monitoring-shrot.m,pSource02,False
+model,queries,Мощность_порт_масло,src/power-query/model/queries/moshchnost-port-maslo.m,pSource03,False
+model,queries,Мощность_порт_шрот,src/power-query/model/queries/moshchnost-port-shrot.m,pSource03,False
+model,queries,Справка_груз,src/power-query/model/queries/spravka-gruz.m,,False
+model,queries,Справка_дата,src/power-query/model/queries/spravka-data.m,,False
+model,queries,Справка_порт,src/power-query/model/queries/spravka-port.m,,False
+model,queries,Справка_экспортер,src/power-query/model/queries/spravka-eksporter.m,,False

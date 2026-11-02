@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Рейтинг экспортеров масла в РФ",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "shape": 8,
+      "textbox": 6,
+      "image": 1,
+      "slicer": 2,
+      "actionButton": 5,
+      "donutChart": 2,
+      "pivotTable": 1,
+      "clusteredBarChart": 1,
+      "card": 4,
+      "clusteredColumnChart": 2
+    }
+  },
+  {
+    "name": "Рейтинг экспортеров шрота в РФ",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "image": 1,
+      "shape": 7,
+      "textbox": 6,
+      "clusteredColumnChart": 3,
+      "actionButton": 5,
+      "slicer": 2,
+      "pivotTable": 1,
+      "donutChart": 2,
+      "card": 5
+    }
+  },
+  {
+    "name": "Детализация_масло",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "textbox": 4,
+      "image": 1,
+      "shape": 5,
+      "slicer": 4,
+      "actionButton": 2,
+      "pivotTable": 1,
+      "lineChart": 1,
+      "columnChart": 1
+    }
+  },
+  {
+    "name": "Детализация_шрот",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "image": 1,
+      "textbox": 4,
+      "shape": 5,
+      "actionButton": 2,
+      "slicer": 4,
+      "columnChart": 1,
+      "lineChart": 1,
+      "pivotTable": 1
+    }
+  },
+  {
+    "name": "Методика",
+    "width": 1280,
+    "height": 720,
+    "visual_types": {
+      "shape": 4,
+      "textbox": 2,
+      "image": 1,
+      "actionButton": 2
+    }
+  }
+]

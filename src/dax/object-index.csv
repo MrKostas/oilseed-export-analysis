@@ -1,0 +1,32 @@
+kind,table,name,file
+measures,Мониторинг_масло,Сумма_экспорт_масло,src/dax/measures/01-summa-eksport-maslo.dax
+measures,Мониторинг_масло,Сумма_по_компании_масло,src/dax/measures/02-summa-po-kompanii-maslo.dax
+measures,Мониторинг_масло,Сумма_по_портам_масло,src/dax/measures/03-summa-po-portam-maslo.dax
+measures,Мониторинг_масло,Сумма_порты_прочее_масло,src/dax/measures/04-summa-porty-prochee-maslo.dax
+measures,Мониторинг_масло,Сумма_прочее_масло,src/dax/measures/05-summa-prochee-maslo.dax
+measures,Мониторинг_масло,Сумма_экспорт для АЧБ_масло,src/dax/measures/06-summa-eksport-dlya-achb-maslo.dax
+measures,Мониторинг_масло,Мощности_масло для АЧБ,src/dax/measures/07-moshchnosti-maslo-dlya-achb.dax
+measures,Мониторинг_масло,Подсказка_прочие_компании_масло,src/dax/measures/08-podskazka-prochie-kompanii-maslo.dax
+measures,Мониторинг_масло,Подсказка_прочие_порты_масло,src/dax/measures/09-podskazka-prochie-porty-maslo.dax
+measures,Мониторинг_масло,Процент загрузки АЧБ_масло,src/dax/measures/10-protsent-zagruzki-achb-maslo.dax
+measures,Мониторинг_масло,Процент загрузки РФ_масло,src/dax/measures/11-protsent-zagruzki-rf-maslo.dax
+measures,Мощность_порт_масло,Сумма_мощности_масло,src/dax/measures/12-summa-moshchnosti-maslo.dax
+measures,Мощность_порт_шрот,Сумма_мощности_шрот,src/dax/measures/13-summa-moshchnosti-shrot.dax
+measures,Мониторинг_шрот,Мощности_шрот для АЧБ,src/dax/measures/14-moshchnosti-shrot-dlya-achb.dax
+measures,Мониторинг_шрот,Мощности_шрот для ББ,src/dax/measures/15-moshchnosti-shrot-dlya-bb.dax
+measures,Мониторинг_шрот,Подсказка_прочие_компании_шрот,src/dax/measures/16-podskazka-prochie-kompanii-shrot.dax
+measures,Мониторинг_шрот,Подсказка_прочие_порты_шрот,src/dax/measures/17-podskazka-prochie-porty-shrot.dax
+measures,Мониторинг_шрот,Процент загрузки АЧБ_шрот,src/dax/measures/18-protsent-zagruzki-achb-shrot.dax
+measures,Мониторинг_шрот,Процент загрузки ББ_шрот,src/dax/measures/19-protsent-zagruzki-bb-shrot.dax
+measures,Мониторинг_шрот,Процент загрузки РФ_шрот,src/dax/measures/20-protsent-zagruzki-rf-shrot.dax
+measures,Мониторинг_шрот,Сумма_по_компании_шрот,src/dax/measures/21-summa-po-kompanii-shrot.dax
+measures,Мониторинг_шрот,Сумма_по_портам_шрот,src/dax/measures/22-summa-po-portam-shrot.dax
+measures,Мониторинг_шрот,Сумма_порты_прочее_шрот,src/dax/measures/23-summa-porty-prochee-shrot.dax
+measures,Мониторинг_шрот,Сумма_прочее_шрот,src/dax/measures/24-summa-prochee-shrot.dax
+measures,Мониторинг_шрот,Сумма_экспорт для АЧБ_шрот,src/dax/measures/25-summa-eksport-dlya-achb-shrot.dax
+measures,Мониторинг_шрот,Сумма_экспорт для ББ_шрот,src/dax/measures/26-summa-eksport-dlya-bb-shrot.dax
+measures,Мониторинг_шрот,Сумма_экспорт_шрот,src/dax/measures/27-summa-eksport-shrot.dax
+calculated-tables,Справка_порты_прочее,Справка_порты_прочее,src/dax/calculated-tables/01-spravka-porty-prochee.dax
+calculated-tables,Справка_экспортеры_прочее,Справка_экспортеры_прочее,src/dax/calculated-tables/02-spravka-eksportery-prochee.dax
+calculated-columns,Мониторинг_масло,"Кол-во, тыс. т",src/dax/calculated-columns/01-kol-vo-tys-t.dax
+calculated-columns,Мониторинг_шрот,"Вес, тыс. т",src/dax/calculated-columns/02-ves-tys-t.dax

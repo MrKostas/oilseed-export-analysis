@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" role="img">
+<title>Компоновка страницы Детализация_шрот</title>
+<desc>Схема по метаданным PBIX. Без данных, брендинга и персональных контактов. Не скриншот отчёта.</desc>
+<rect width="1280" height="800" fill="#f7f9fb"/>
+<text x="16" y="27" font-family="Arial,sans-serif" font-size="19" fill="#203b2b">Детализация_шрот</text>
+<text x="16" y="52" font-family="Arial,sans-serif" font-size="12" fill="#546572">Схема расположения визуалов • без исходных значений • не скриншот</text>
+<g transform="translate(0,70)" font-family="Arial,sans-serif">
+<rect x="0.0" y="447.0" width="133.7" height="251.5" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="7.0" y="462.0" font-size="12" fill="#354a40">Фильтр</text>
+<rect x="9.8" y="188.6" width="114.9" height="64.8" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="16.8" y="203.6" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="132.5" y="61.0" width="146.9" height="69.1" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="139.5" y="76.0" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="133.9" y="160.3" width="148.3" height="69.1" rx="5" fill="#e8f1e9" stroke="#9eb0a7"/>
+<text x="140.9" y="175.3" font-size="9" fill="#354a40">Фильтр</text>
+<rect x="796.3" y="64.8" width="459.4" height="299.5" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="803.3" y="79.8" font-size="12" fill="#354a40">Динамика: Динамика экспорта шрота в разбивке портов/авто/жд,</text>
+<text x="803.3" y="94.8" font-size="12" fill="#354a40">тыс. т</text>
+<rect x="303.8" y="63.4" width="453.6" height="301.0" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="310.8" y="78.4" font-size="12" fill="#354a40">Динамика: Динамика экспорта шрота, тыс. т</text>
+<rect x="146.9" y="385.9" width="1111.7" height="298.1" rx="5" fill="#ffffff" stroke="#9eb0a7"/>
+<text x="153.9" y="400.9" font-size="12" fill="#354a40">Матрица: Экспорт шрота в разрезе стран назначения, тыс. т</text>
+</g></svg>
